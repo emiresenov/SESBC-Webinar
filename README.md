@@ -1,0 +1,1 @@
+To open the notebook in Google Colab, go to [SESBC_Webinar_Emir_Esenov.ipynb](SESBC_Webinar_Emir_Esenov.ipynb) and click the "Open in Colab" button on the top left. Alternatively, click [here](https://colab.research.google.com/github/emiresenov/SESBC-Webinar/blob/main/SESBC_Webinar_Emir_Esenov.ipynb)
